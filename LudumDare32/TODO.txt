@@ -1,0 +1,10 @@
+﻿* Clean up code
+* Add save/load map with new format.
+* Encrypt/Decrypt files ??
+* Graphics
+* Debuging (collect and display)
+* Update UI logic (mouse interacting with other controls when they are not "active")
+* Fix mouse error while out of the game window
+* Remove TileID Entity
+* MAYBE Kappa Add stuff that deccer says 
+* Add cloning to tiles and other stuff
